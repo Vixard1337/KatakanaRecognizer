@@ -1,0 +1,21 @@
+# ML models
+*.h5
+*.keras
+*.weights
+
+# archives
+*.zip
+*.rar
+
+# outputs
+*.png
+*.eps
+*.txt
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+
+# datasets
+data/
+models/checkpoints/
