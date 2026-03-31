@@ -80,7 +80,7 @@ Clone repository:
 
 bash
 
-git clone https://github.com/YOUR\\\_USERNAME/KatakanaRecognizer.git
+git clone https://github.com/Vixard1337/KatakanaRecognizer.git
 
 cd KatakanaRecognizer
 
